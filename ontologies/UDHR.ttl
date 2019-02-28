@@ -4,7 +4,7 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@base <urn:absolute:webcivics.github.io/community/un/> .
+@base <urn:absolute:webcivics.github.io/community/ontologies/> .
 
 <urn:absolute:webcivics.github.io/community/un/> rdf:type owl:Ontology ;
                                                   rdfs:comment "All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood." .
